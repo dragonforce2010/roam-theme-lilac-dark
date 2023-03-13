@@ -362,3 +362,9 @@
   background-color: var(--background-colour) !important;
   border: none;
 }
+.lilac-dark .rm-bq {
+  background-color: #433146;
+}
+.lilac-dark .rm-command-palette__scroll-container .rm-command-palette__menu .rm-menu-item--active {
+  background-color: #84519e;
+}
